@@ -10,7 +10,7 @@
 - Evaluate Phy-GraphSlot model on MOVi-C dataset
 - Checkpoints of Phy-GraphSlot on MOVi-C dataset
 
-![figure](https://github.com/HaronW/Phy-GraphSlot/main/figure.png)
+![figure](https://github.com/HaronW/Phy-GraphSlot/blob/main/figure.png)
 
 
 
