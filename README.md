@@ -1,14 +1,14 @@
-# Phy-GraphSlot
+# GraphSlot
 
 ## Introduction
 
-​	Code release for paper : **Understand Physics through Object-centric Learning with Graph Representation **
+​	Code release for paper : Physics Understanding Enhancement via an Object-centric Learning Method Nested by Graph Representation
 
 ​	This code contains:
 
-- Training Phy-GraphSlot model on MOVi-C dataset
-- Evaluate Phy-GraphSlot model on MOVi-C dataset
-- Checkpoints of Phy-GraphSlot on MOVi-C dataset
+- Training GraphSlot model on MOVi-C dataset
+- Evaluate GraphSlot model on MOVi-C dataset
+- Checkpoints of GraphSlot on MOVi-C dataset
 
 ![figure](https://github.com/HaronW/Phy-GraphSlot/blob/main/figure.png)
 
@@ -62,7 +62,7 @@ python -m phygraphslot.main --seed 42 --gpu 0,1,2,3 --mode=phygraphslot --eval -
 
 #### Checkpoint
 
-​	Checkpoint of Phy-GraphSlot on MOVi-C dataset with 128 x 128 resolution is available at [Google Drive](https://drive.google.com/file/d/1ZVT0aMLixII3F7SMeER_dLw_RT8A4UYx/view?usp=sharing).
+​	Checkpoint of GraphSlot on MOVi-C dataset with 128 x 128 resolution is available at [Google Drive](https://drive.google.com/file/d/1ZVT0aMLixII3F7SMeER_dLw_RT8A4UYx/view?usp=sharing).
 
 
 
@@ -74,4 +74,4 @@ python -m phygraphslot.main --seed 42 --gpu 0,1,2,3 --mode=phygraphslot --eval -
 
 ## License
 
-​	Phy-GraphSlot is released under the MIT License. See the LICENSE file for more details.
+​	GraphSlot is released under the MIT License. See the LICENSE file for more details.
